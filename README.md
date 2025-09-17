@@ -106,14 +106,6 @@ The contract has been tested on Remix IDE and successfully deployed on Arbitrum 
 
 This project is licensed under the LGPL-3.0-only license.
 
-## Contributing
-
-This is a simple token contract. If you'd like to contribute or suggest improvements, please feel free to open an issue or submit a pull request.
-
-## Support
-
-For questions or support regarding this token contract, please refer to the Ethereum and Arbitrum documentation or OpenZeppelin's ERC20 implementation guide.
-
 ---
 
 **Note**: This is a basic ERC-20 token implementation. For production use, consider additional features like:
